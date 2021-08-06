@@ -1,0 +1,49 @@
+.row{
+    display: flex;
+}
+
+.col{
+    flex-grow: 1;
+    margin-right: 10px;
+}
+
+input{
+    display: block;
+    margin: 5px;
+    color: darkgreen;
+}
+
+hr{
+    color: blue;
+    border: 15%
+}
+
+td{
+    font-weight: bold;
+    color: red;
+}
+
+dd{
+    font-weight: normal;
+    color: black;
+}
+
+#tipo{
+    color: firebrick;
+}
+
+h1{
+    background-color: gold;
+    text-align: center;
+    color: brown;
+}
+
+h3{
+    background-color: goldenrod;
+    text-align: center;
+    color: teal;
+}
+
+#principal{
+    background-color: tan;
+}
